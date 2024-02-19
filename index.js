@@ -24,7 +24,8 @@ const writeToFile = (fileName, data) => {
 
 // function to initialize program
 const init = async () => {
-    const repoDetails = getUserInput(questions)
+    const repoDetails = await getUserInput(questions)
+    console.log(generateMarkdown(repoDetails))
 }
 
 // function call to initialize program
