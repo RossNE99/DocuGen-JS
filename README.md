@@ -67,7 +67,7 @@ Please make sure you have NodeJS downloaded
 
 The following image shows the web application's functionality:
 
-![Screenshott](assets/images/DocuGen-JS.png)
+![Screenshott](assets/images/DocuGen-js.png)
 
 > **Note**: This app runs in the NodeJS environment.
 
