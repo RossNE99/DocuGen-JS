@@ -35,8 +35,8 @@ ${data.test}
 
 ## Questions
 If you have questions i can be contacted via Github or email
-- Email: ${data.Github}
-- Github: ${data.email}
+- Email: ${data.email}
+- Github: [${data.Github}](https://github.com/${data.Github})
 
 ## License
 ${data.license}
