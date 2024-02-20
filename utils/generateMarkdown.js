@@ -8,6 +8,7 @@ export const generateMarkdown = (data) => {
 
 ## Description
 ${data.description}
+
 ## Table of Contents
 - [Description](#Description)
 - [Table of Contents](#Table-of-Contents)

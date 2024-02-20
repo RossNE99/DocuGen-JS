@@ -45,7 +45,7 @@ const init = async () => {
     }
 
     const readmeContent = generateMarkdown(repoDetails) //call the generateMarkdown and pass in repoDetails. this will create a markdown string, formatted correctly with titles etc
-    writeToFile("README.md", readmeContent) //call the writeToFile function, pass in the name of the file u want to create and the content u want to add to it
+    writeToFile("SAMPLE_README.md", readmeContent) //call the writeToFile function, pass in the name of the file u want to create and the content u want to add to it
 
 }
 
