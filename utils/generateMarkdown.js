@@ -33,10 +33,10 @@ ${data.contribution}
 ## Tests
 ${data.test}
 
-##Questions
+## Questions
 If you have questions i can be contacted via Github or email
-Email: ${data.Github}
-Github: ${data.email}
+- Email: ${data.Github}
+- Github: ${data.email}
 
 ## License
 ${data.license}
