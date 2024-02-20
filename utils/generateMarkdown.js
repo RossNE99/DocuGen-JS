@@ -1,6 +1,6 @@
 // function to generate markdown for README
 export const generateMarkdown = (data) => {
-
+  //function to generate the Markdown in the correct format using string interpalation
   return `
 # ${data.title}
 
