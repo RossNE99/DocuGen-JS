@@ -24,7 +24,13 @@ const listQuestions = [
 
 // function to write README file
 const writeToFile = (fileName, data) => {
-    
+    fs.writeFile(fileName, data, (err) => {
+        if (err) {
+          console.error('Error writing to file:', err);
+        } else {
+          console.log(`Successfully wrote ${fileName} file`);
+        }
+    })
 }
 
 // function to initialize program
@@ -35,7 +41,9 @@ const init = async () => {
         repoDetails[question.name] = await getListInput(question.questionMessage, question.askAgainMessage, question.isNumberd)
     }
 
-    console.log(generateMarkdown(repoDetails))
+    const readmeContent = generateMarkdown(repoDetails)
+    writeToFile("README.md", readmeContent)
+
 }
 
 // function call to initialize program
