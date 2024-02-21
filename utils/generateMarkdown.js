@@ -10,14 +10,14 @@ export const generateMarkdown = (data) => {
 ${data.description}
 
 ## Table of Contents
-- [Description](#Description)
-- [Table of Contents](#Table-of-Contents)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [Questions](#Questions)
-- [License](#License)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 ## Installation
 To get this app up and running simply follow these steps 🛠️

@@ -8,17 +8,19 @@ The motivation behind creating DocuGen-JS was to streamline the often tedious pr
 
 To use DocuGen-JS, you need to have node js installed on your system. You can download node js from here. Once you have node js, you can clone this repository or download the zip file. Then, navigate to the folder where you have the app and run `node index.js` in your terminal. You will be prompted to answer some questions about your project, such as its name, description, installation, usage, license, and contributors. After you answer all the questions, a README.md file will be generated in the same folder. You can then edit, rename, or move the file as you wish.
 
-Please see a full list of features [here](#Features)
+View the walk through viedo [here](https://bootcampspot.instructure.com/media_attachments_iframe/3230873?type=video&embedded=true&verifier=r0Wt09vHLVUYJBOzInpNNgFRJnWxS8nsjfrdspQU)
+
+Please see a full list of features [here](#features)
 
 ## Table of Contents
 
-- [Dev Requirements](#Dev-Requirements)
-- [Dev Environment Setup](#Dev-Environment-Setup)
-- [Enduser usage instructions](#End-user-usage-instructions)
-- [Features](#Features)
-- [How to contribute](#How-to-contribute)
+- [Dev Requirements](#dev-requirements)
+- [Dev Environment Setup](#dev-environment-setup)
+- [Enduser usage instructions](#end-user-usage-instructions)
+- [Features](#features)
+- [How to contribute](#how-to-contribute)
 - [technologies ](#technologies)
-- [Screenshot](#Screenshot)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
