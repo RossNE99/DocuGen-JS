@@ -7,14 +7,14 @@
 DocuGen-JS is a node js app that helps developers create README files for their projects. A README file is a document that provides essential information about a project, such as its name, description, installation, usage, license, and contributors. README Generator simplifies the process of creating a README file by asking the user to input the relevant details and then formatting them into a markdown file.
 
 ## Table of Contents
-- [Description](#Description)
-- [Table of Contents](#Table-of-Contents)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [Questions](#Questions)
-- [License](#License)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 ## Installation
 To get this app up and running simply follow these steps 🛠️
